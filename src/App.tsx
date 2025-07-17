@@ -46,7 +46,7 @@ export default function ChallanPaymentPortal() {
               <div className="bg-gradient-to-r from-gray-50 to-gray-100 rounded-xl p-3 sm:p-4 border border-gray-200 shadow-sm">
                 <div className="flex items-center justify-between">
                   <div className="flex items-center space-x-2 sm:space-x-3 flex-1">
-                    <img src={WhatsappImage} className="w-5 h-5 sm:w-7 sm:h-7 text-green-500 flex-shrink-0" />
+                    <img src={WhatsappImage} className="w-5 h-5 sm:w-9 sm:h-9 text-green-500 flex-shrink-0" />
                     <div className="flex-1 min-w-0">
                       <p className="font-medium text-gray-900 text-xs sm:text-sm">WhatsApp Service</p>
                       <p className="text-xs text-gray-600 truncate">Get challan details instantly</p>
@@ -87,7 +87,7 @@ export default function ChallanPaymentPortal() {
                       <p className="text-xs text-gray-600 truncate">Official transport app</p>
                     </div>
                   </div>
-                  <button className="bg-gradient-to-r from-green-400 to-green-600 text-white px-2 py-1.5 sm:px-3 sm:py-2 rounded-lg font-medium text-xs flex-shrink-0 ml-2 shadow-lg hover:shadow-xl transition-shadow">
+                  <button className="bg-[linear-gradient(86deg,_#00A348_-9.85%,_#008A3C_93.35%)] text-white px-2 py-1.5 sm:px-3 sm:py-2 rounded-lg font-medium text-xs flex-shrink-0 ml-2 shadow-lg hover:shadow-xl transition-shadow">
                     Download
                   </button>
                 </div>
@@ -129,11 +129,11 @@ export default function ChallanPaymentPortal() {
                   
                   <div className="flex items-center justify-between">
                     <div className="flex items-center space-x-1 sm:space-x-2">
-                      <CheckCircle className="w-3 h-3 sm:w-4 sm:h-4 text-green-500" />
-                      <span className="text-xs text-green-600 font-medium">Verified</span>
+                      <CheckCircle className="w-3 h-3 sm:w-4 sm:h-4 text-green-700" />
+                      <span className="text-xs text-green-700 font-medium">Verified</span>
                     </div>
-                    <button className="bg-gradient-to-r from-green-400 to-green-600 text-white px-2 py-1.5 sm:px-3 sm:py-2 rounded-lg font-medium text-xs flex items-center space-x-1 sm:space-x-2 flex-shrink-0 shadow-lg hover:shadow-xl transition-shadow">
-                      <CreditCard className="w-3 h-3 sm:w-4 sm:h-4" />
+                    <button className="bg-[linear-gradient(180deg,_#00A348_-9.85%,_#008A3C_93.35%)] text-white px-3 py-1.5 sm:px-4 sm:py-2 rounded-lg font-medium text-xs flex items-center space-x-1 sm:space-x-2 flex-shrink-0 shadow-lg hover:shadow-xl transition-shadow">
+                      {/* <CreditCard className="w-3 h-3 sm:w-4 sm:h-4" /> */}
                       <span>Pay Now</span>
                     </button>
                   </div>
@@ -192,7 +192,7 @@ export default function ChallanPaymentPortal() {
       {/* Download CTA */}
       <div className="fixed bottom-0 left-0 right-0 bg-white border-t border-gray-200 p-3 sm:p-4 shadow-lg">
         <div className="max-w-md mx-auto">
-          <button className="w-full bg-gradient-to-r from-green-500 to-green-600 text-white py-3 rounded-xl font-semibold text-sm sm:text-base flex items-center justify-center space-x-2 shadow-lg hover:shadow-xl transition-shadow">
+          <button className="w-full bg-[linear-gradient(86deg,_#00A348_-9.85%,_#008A3C_93.35%)] text-white py-3 rounded-xl font-semibold text-sm sm:text-base flex items-center justify-center space-x-2 shadow-lg hover:shadow-xl transition-shadow">
             <Download className="w-4 h-4 sm:w-5 sm:h-5" />
             <span>DOWNLOAD APP</span>
           </button>
