@@ -121,7 +121,7 @@ export default function ChallanPaymentPortal() {
                         <p className="text-xs text-gray-600">Speed Violation</p>
                       </div>
                     </div>
-                    <div className="text-right flex-shrink-0">
+                    <div className="text-left flex-shrink-0">
                       <p className="font-bold text-gray-900 text-sm sm:text-base">₹ 6500</p>
                       <p className="text-xs text-gray-600">Fine Amount</p>
                     </div>
