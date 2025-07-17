@@ -58,9 +58,9 @@ export default function ChallanPaymentPortal() {
                       <p className="text-xs text-emerald-600 font-medium">Get challan details instantly</p>
                     </div>
                   </div>
-                  <div className="flex items-center flex-shrink-0 ml-2">
-                    <div className="bg-gradient-to-r from-emerald-600 to-teal-600 px-3 py-1.5 rounded-lg shadow-lg">
-                      <span className="text-xs   text-white font-semibold">Parivahan Sewas</span>
+                  <div className="flex items-center justify-center sm:justify-end flex-shrink-0">
+                    <div className="bg-[linear-gradient(86deg,_#00A348_-9.85%,_#008A3C_93.35%)] px-3 py-2 rounded-lg shadow-lg flex items-center justify-center">
+                      <span className="text-xs text-white font-semibold text-center">Parivahan Sewas</span>
                     </div>
                   </div>
                 </div>
