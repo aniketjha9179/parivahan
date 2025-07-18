@@ -50,15 +50,16 @@ export default function CredSupportPortal() {
             </button>
           </div>
           
-          <h1 className="text-2xl sm:text-7xl md:text-7xl font-bold text-green-400 mb-3 sm:mb-4 mt-8 sm:mt-20 md:mt-40 leading-tight p-6 ">
-            get support on-demand.
+          <h1 className="text-4xl sm:text-7xl md:text-7xl font-bold text-green-400 mb-3 sm:mb-4 mt-8 sm:mt-20 md:mt-40 leading-tight  ">
+            get support <br />
+             on-demand.
             <br />
             via the app.
           </h1>
           
           
-          <div className='max-w-3xl mx-auto px-3 sm:px-4 relative z-10'>
-            <p className="text-gray-400 text-xs sm:text-lg md:text-2xl lg:text-[34px] leading-relaxed sm:leading-loose   ">
+          <div className='max-w-3xl mx-auto px-3  relative z-10'>
+            <p className="text-gray-400 text-xs sm:text-lg md:text-2xl lg:text-[34px] leading-relaxed sm:leading-loose p-6  ">
               CRED doesn't have a customer phone line but we do have experts on stand-by to help resolve any problems you might be facing. all you need to get in touch is follow the steps shown below.
             </p>
           </div>
