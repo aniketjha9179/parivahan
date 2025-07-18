@@ -50,7 +50,7 @@ export default function CredSupportPortal() {
             </button>
           </div>
           
-          <h1 className="text-4xl sm:text-7xl md:text-7xl font-bold text-green-400 mb-3 sm:mb-4 mt-8 sm:mt-20 md:mt-40 leading-tight  ">
+          <h1 className="text-5xl sm:text-7xl md:text-7xl font-bold text-green-400 mb-3 sm:mb-4 mt-8 sm:mt-20 md:mt-40 leading-tight  ">
             get support <br />
              on-demand.
             <br />
