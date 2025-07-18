@@ -40,7 +40,7 @@ export default function CredSupportPortal() {
         {/* Header */}
         <div className="py-4 sm:py-8 text-center">
           <div className="flex justify-between items-center mb-4 sm:mb-6">
-            <div className="w-8 h-8 sm:w-12 sm:h-12 bg-white rounded-lg flex items-center justify-center">
+            <div className="w-8 h-8 sm:w-12 sm:h-12  rounded-lg flex items-center justify-center">
               <div className="w-6 h-6 sm:w-8 sm:h-8 bg-black rounded flex items-center justify-center">
                 <span className="text-white font-bold text-[10px] sm:text-xs">CRED</span>
               </div>
@@ -50,7 +50,7 @@ export default function CredSupportPortal() {
             </button>
           </div>
           
-          <h1 className="text-3xl sm:text-4xl md:text-6xl font-bold text-green-400 mb-3 sm:mb-4 mt-8 sm:mt-20 md:mt-40 leading-tight p-6 ">
+          <h1 className="text-4xl sm:text-7xl md:text-7xl font-bold text-green-400 mb-3 sm:mb-4 mt-8 sm:mt-20 md:mt-40 leading-tight p-6 ">
             get support on-demand.
             <br />
             via the app.
@@ -65,8 +65,8 @@ export default function CredSupportPortal() {
         
         {/* Get Support with white border */}
         <div className='text-white text-center mb-8'>
-          <div className="inline-block border-2 border-white rounded-full px-4 py-2">
-            <span className="text-md font-semibold">get support</span>
+          <div className="inline-block border-2 border-white rounded-full px-4 py-2 mt-4">
+            <span className="text-md font-semibold ">get support</span>
           </div>
         </div>
         
