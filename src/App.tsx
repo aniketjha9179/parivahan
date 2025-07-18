@@ -59,7 +59,7 @@ export default function CredSupportPortal() {
           
           
           <div className='max-w-3xl mx-auto px-3  relative z-10'>
-            <p className="text-gray-400 text-xs sm:text-lg md:text-2xl lg:text-[34px] leading-relaxed sm:leading-loose p-6  ">
+            <p className="text-gray-400 text-xs sm:text-lg md:text-2xl lg:text-[34px] leading-relaxed sm:leading-loose p-10  ">
               CRED doesn't have a customer phone line but we do have experts on stand-by to help resolve any problems you might be facing. all you need to get in touch is follow the steps shown below.
             </p>
           </div>
